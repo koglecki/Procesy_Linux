@@ -1,6 +1,3 @@
-//PS IS1 322 LAB05
-//Kamil Oglęcki
-//ok49356@zut.edu.pl
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
